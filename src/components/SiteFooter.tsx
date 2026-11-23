@@ -30,7 +30,7 @@ export default function SiteFooter() {
           <h4 className="text-[13px] font-semibold text-white/70 mb-4">Aloqa</h4>
           <ul className="flex flex-col gap-2.5 text-[14px] text-white/65 font-body">
             <li><a href="tel:+998941992604" className="hover:text-white transition-colors">+998 94 199 26 04</a></li>
-            <li><a href="https://t.me/AlimboyevJayxun" target="_blank" rel="noopener" className="hover:text-white transition-colors">Telegram: @AlimboyevJayxun</a></li>
+            <li><a href="https://t.me/zafarovna_9977" target="_blank" rel="noopener" className="hover:text-white transition-colors">Telegram: @zafarovna_9977</a></li>
             <li><a href="#demo" className="hover:text-white transition-colors">Bepul demo so'rash</a></li>
           </ul>
         </div>

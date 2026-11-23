@@ -2,7 +2,7 @@ import { useState, type FormEvent } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { EASE } from "../lib/motion";
 
-export const TELEGRAM = "AlimboyevJayxun";
+export const TELEGRAM = "zafarovna_9977";
 export const PHONE = "+998941992604";
 export const PHONE_LABEL = "+998 94 199 26 04";
 
